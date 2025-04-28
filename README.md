@@ -50,7 +50,7 @@
 
 ---
 
-### 🌐 Connect with me
+### 🌐Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/yashwantsinghjaat" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
